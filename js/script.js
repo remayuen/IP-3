@@ -1,6 +1,6 @@
-// DESIGN 
+// DESIGN
 
-$('.target-design').click(function() {
+$('.targetDesign').click(function() {
   $(".design-showing").toggle();
   $(".design-hidden").toggle();
 });
@@ -8,7 +8,7 @@ $('.target-design').click(function() {
 
 // DEVELOPMENT
 
-$('.target-dev').click(function() {
+$('.targetDev').click(function() {
   $(".dev-showing").toggle();
   $(".dev-hidden").toggle();
 });
@@ -16,7 +16,7 @@ $('.target-dev').click(function() {
 
 // PRODUCT
 
-$('.target-product').click(function() {
+$('.targetProduct').click(function() {
   $(".product-showing").toggle();
   $(".product-hidden").toggle();
 });
