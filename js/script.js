@@ -1,4 +1,4 @@
-// DESIGN TOGGLE EFFECT
+// DESIGN 
 
 $('.target-design').click(function() {
   $(".design-showing").toggle();
@@ -6,7 +6,7 @@ $('.target-design').click(function() {
 });
 
 
-// DEVELOPMENT TOGGLE EFFECT
+// DEVELOPMENT
 
 $('.target-dev').click(function() {
   $(".dev-showing").toggle();
@@ -14,7 +14,7 @@ $('.target-dev').click(function() {
 });
 
 
-// PRODUCT TOGGLE EFFECT
+// PRODUCT
 
 $('.target-product').click(function() {
   $(".product-showing").toggle();
