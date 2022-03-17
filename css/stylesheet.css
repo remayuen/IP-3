@@ -458,11 +458,11 @@ form {
 }
 
 input[type="email"] {
-  width: 300px;
+  width: 400px;
 }
 
-input[type="name"] {
-  width: 300px;
+input[type="text"] {
+  width: 400px;
 }
 
 ::placeholder {
