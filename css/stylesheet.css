@@ -1,5 +1,7 @@
 body {
   margin: auto;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500;
 }
 
 /* FIRST SECTION */
@@ -190,7 +192,6 @@ body {
   padding: 16px 32px;
 }
 
-
 .img3-container {
   position: relative;
   width: 115%;
@@ -271,7 +272,6 @@ body {
   padding: 16px 32px;
 }
 
-
 .img5-container {
   position: relative;
   width: 115%;
@@ -311,7 +311,6 @@ body {
   font-size: 16px;
   padding: 16px 32px;
 }
-
 
 .img6-container {
   position: relative;
@@ -393,7 +392,6 @@ body {
   padding: 16px 32px;
 }
 
-
 .img8-container {
   position: relative;
   width: 115%;
@@ -444,8 +442,8 @@ body {
   background-color: transparent;
 }
 
-.mail-trans{
-    background-color: transparent;
+.mail-trans {
+  background-color: transparent;
 }
 
 .section6-heading {
